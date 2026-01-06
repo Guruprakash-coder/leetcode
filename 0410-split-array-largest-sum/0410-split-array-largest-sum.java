@@ -1,0 +1,30 @@
+class Solution {
+    public int splitArray(int[] nums, int k) {
+        int start=0;
+        int end=0;
+        for(int i=0;i<nums.length;i++){
+            start=Math.max(nums[i],start);
+            end+=nums[i];
+        }
+        while(start<end){
+            int mid=(start+end)/2;
+            int pieces=1;
+            int sum=0;
+            for(int i=0;i<nums.length;i++){
+                if(sum+nums[i]>mid){
+                    sum=nums[i];
+                    pieces++;
+                }
+                else{
+                    sum+=nums[i];
+                }
+            }
+            if(pieces>k){
+                start=mid+1;
+            }else{
+                end=mid;
+            }
+        }
+        return start;
+    }
+}
