@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Guruprakash-coder/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Guruprakash-coder/leetcode/tree/master/1390-four-divisors) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
