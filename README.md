@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Guruprakash-coder/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Guruprakash-coder/leetcode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Guruprakash-coder/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Guruprakash-coder/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Guruprakash-coder/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Guruprakash-coder/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Guruprakash-coder/leetcode/tree/master/1678-goal-parser-interpretation) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Guruprakash-coder/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
