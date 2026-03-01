@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Guruprakash-coder/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Guruprakash-coder/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Guruprakash-coder/leetcode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/Guruprakash-coder/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Guruprakash-coder/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Guruprakash-coder/leetcode/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Guruprakash-coder/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [2923-find-champion-i](https://github.com/Guruprakash-coder/leetcode/tree/master/2923-find-champion-i) |
