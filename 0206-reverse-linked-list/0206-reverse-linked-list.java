@@ -13,23 +13,16 @@ class Solution {
         if(head==null || head.next==null){
             return head;
         }
-       ListNode prev=null;
-       ListNode pres=head;
-       ListNode Next=head.next;
-       while(pres!=null){
-        if(Next==null){
-            head=pres;
-        } 
-        pres.next=prev;
-        prev=pres;
-        pres=Next;
-        if(Next!=null){
-            Next=Next.next;
+        return reverse(head);
+    }
+    public ListNode reverse(ListNode node){
+        if(node.next==null){
+            return node;
         }
-        
-        
-       } 
-       head=prev;
-       return head;
+        ListNode newHead=reverse(node.next);
+        node.next.next=node;
+        node.next=null;
+
+        return newHead;
     }
 }
