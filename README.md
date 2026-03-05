@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Guruprakash-coder/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Guruprakash-coder/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Guruprakash-coder/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Guruprakash-coder/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Guruprakash-coder/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0509-fibonacci-number) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
