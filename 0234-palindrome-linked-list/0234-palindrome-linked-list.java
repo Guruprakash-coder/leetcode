@@ -10,9 +10,10 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
+        
         ListNode mid=middleNode(head);
         ListNode headsecond=reverseList(mid);
-        ListNode rereverse=headsecond;
+        
         while(head!=null && headsecond!=null){
             if(head.val!=headsecond.val){
                 return false;
@@ -20,7 +21,7 @@ class Solution {
             head=head.next;
             headsecond=headsecond.next;
         }
-        rereverse=reverseList(rereverse);
+        
         return true;
 
     }
