@@ -8,7 +8,7 @@ class Solution {
             if(max<current){
                 max=current;
             }
-            System.out.println(max);
+            
             if(height[i]<height[j]){
                 i++;
             }else{
