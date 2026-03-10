@@ -13,10 +13,8 @@ class Solution {
             }
             }
             
-            
-            
         }
-        System.out.print(count);
+        
         return count>=n;
     }
 }
