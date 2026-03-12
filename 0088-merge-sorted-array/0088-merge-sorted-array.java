@@ -1,39 +1,24 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int ans[]=new int[nums1.length];
-        ans=merge(nums1,nums2,m,n);
-        
-        
-        System.arraycopy(ans, 0, nums1, 0, ans.length);
-    }
-     
-    public int[] merge(int[] left,int[] right,int m,int n){
-        int[] mix=new int[left.length];
-        int i=0;
-        int j=0;
-        int k=0;
-        while(i<m && j<n){
-            if(left[i]<right[j]){
-                mix[k]=left[i];
-                i++;
-
+        int i=m-1;
+        int j=n-1;
+        int k=m+n-1;
+        while(i>=0 && j>=0){
+            if(nums1[i]>nums2[j]){
+                nums1[k]=nums1[i];
+                i--;
             }else{
-                mix[k]=right[j];
-                j++;
+                nums1[k]=nums2[j];
+                j--;
             }
-            k++;
+            k--;
+
+        }
+        while(j>=0){
+            nums1[k]=nums2[j];
+            j--;
+            k--;
         }
 
-        while(i<m){
-            mix[k]=left[i];
-            i++;
-            k++;
-        }
-        while(j<n){
-            mix[k]=right[j];
-            j++;
-            k++;
-        }
-        return mix;
     }
 }
