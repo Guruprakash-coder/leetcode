@@ -2,9 +2,7 @@ class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int ans[]=new int[nums1.length];
         ans=merge(nums1,nums2,m,n);
-        for(int i=0;i<nums1.length;i++){
-            System.out.print(nums1[i]);
-        }
+        
         
         System.arraycopy(ans, 0, nums1, 0, ans.length);
     }
