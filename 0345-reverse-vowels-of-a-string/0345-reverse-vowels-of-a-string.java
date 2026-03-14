@@ -4,7 +4,7 @@ class Solution {
         ans.append(s);
         int i=0;
         int j=s.length()-1;
-        System.out.print(ans);while(i<j){
+        while(i<j){
             char c1=s.charAt(i);
             char c2=s.charAt(j);
             if(isVowel(c1) && isVowel(c2)){
