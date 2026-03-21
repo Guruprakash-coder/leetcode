@@ -1,24 +1,20 @@
 class Solution {
     public int countElements(int[] nums) {
-        
-        Arrays.sort(nums);
-        int i=0;
-        int j=nums.length-1;
-        while(i<j){
-            if(nums[i+1]==nums[i]){
-                i++;
-            }
-            if(nums[j-1]==nums[j]){
-                j--;
-            }
-            if(nums[j]>nums[j-1] && nums[i+1]>nums[i]){
-                break;
+        int max=Integer.MIN_VALUE;
+        int min=Integer.MAX_VALUE;
+        int cnt=0;
+        for(int i=0;i<nums.length;i++){
+            max=Math.max(max,nums[i]);
+            min=Math.min(min,nums[i]);
+
+        }
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==max || nums[i]==min){
+                continue;
+            }else{
+                cnt++;
             }
         }
-        if(i>=j){
-            return 0;
-        }
-        
-        return nums.length-i-1-(nums.length-j);
+        return cnt;
     }
 }
