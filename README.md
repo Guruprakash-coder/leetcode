@@ -280,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Guruprakash-coder/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Guruprakash-coder/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
