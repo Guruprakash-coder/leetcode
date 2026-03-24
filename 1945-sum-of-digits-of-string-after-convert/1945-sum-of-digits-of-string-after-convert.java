@@ -20,7 +20,7 @@ class Solution {
         
         for(int i=0;i<sb.length();i++){
             ret+=sb.charAt(i)-'0';
-            System.out.println(ret);
+            
         }
         return ret;
     }
