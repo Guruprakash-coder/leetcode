@@ -5,7 +5,7 @@ class Solution {
         }
        int i=0;
        int j=1;
-       //int cnt=1;
+       
        while(true){
         if(i>=nums.length || j>=nums.length){
             break;
@@ -13,7 +13,7 @@ class Solution {
             if(nums[i]==nums[j]){
                 j++;
             }else{
-                //cnt++;
+               
                 nums[i+1]=nums[j];
                 i++;
                 j++;
