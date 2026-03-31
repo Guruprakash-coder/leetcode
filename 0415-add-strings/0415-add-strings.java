@@ -20,8 +20,8 @@ class Solution {
             int val = sum % 10;
             carry = sum / 10;
 
-            ans.insert(0, val);  
+            ans.append(val);  
         }
-        return ans.toString();
+        return ans.reverse().toString();
     }
 }
