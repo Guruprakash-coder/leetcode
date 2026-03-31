@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Guruprakash-coder/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Guruprakash-coder/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Guruprakash-coder/leetcode/tree/master/0066-plus-one) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Guruprakash-coder/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Guruprakash-coder/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Guruprakash-coder/leetcode/tree/master/0050-powx-n) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Guruprakash-coder/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Guruprakash-coder/leetcode/tree/master/0023-merge-k-sorted-lists) |
