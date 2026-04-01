@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Guruprakash-coder/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Guruprakash-coder/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Guruprakash-coder/leetcode/tree/master/0605-can-place-flowers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Guruprakash-coder/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Guruprakash-coder/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Guruprakash-coder/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Guruprakash-coder/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Guruprakash-coder/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Guruprakash-coder/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guruprakash-coder/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -314,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Guruprakash-coder/leetcode/tree/master/0175-combine-two-tables) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Guruprakash-coder/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Guruprakash-coder/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
