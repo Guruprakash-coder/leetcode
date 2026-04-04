@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Guruprakash-coder/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2923-find-champion-i](https://github.com/Guruprakash-coder/leetcode/tree/master/2923-find-champion-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Guruprakash-coder/leetcode/tree/master/1390-four-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Guruprakash-coder/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Guruprakash-coder/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Guruprakash-coder/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
