@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Guruprakash-coder/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Guruprakash-coder/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Guruprakash-coder/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Guruprakash-coder/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Guruprakash-coder/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3582-generate-tag-for-video-caption](https://github.com/Guruprakash-coder/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 ## Backtracking
