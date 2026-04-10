@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Guruprakash-coder/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Guruprakash-coder/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Guruprakash-coder/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Guruprakash-coder/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Guruprakash-coder/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Guruprakash-coder/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Guruprakash-coder/leetcode/tree/master/0342-power-of-four) |
