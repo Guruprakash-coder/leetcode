@@ -7,31 +7,21 @@ class MyQueue {
     }
     
     public void push(int x) {
-        s1.push(x);
+       while(!s1.isEmpty()){
+        s2.push(s1.pop());
+       } 
+       s1.push(x);
+       while(!s2.isEmpty()){
+        s1.push(s2.pop());
+       }
     }
     
     public int pop() {
-        while(!s1.isEmpty()){
-            s2.push(s1.pop());
-        }
-        int rem= s2.pop();
-        while(!s2.isEmpty()){
-            s1.push(s2.pop());
-        }
-        
-        return rem;
+        return s1.pop();
     }
     
     public int peek() {
-        while(!s1.isEmpty()){
-            s2.push(s1.pop());
-        }
-        int peek= s2.peek();
-        while(!s2.isEmpty()){
-            s1.push(s2.pop());
-        }
-        
-        return peek;
+       return s1.peek();
     }
     
     public boolean empty() {
