@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Guruprakash-coder/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Guruprakash-coder/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Guruprakash-coder/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Guruprakash-coder/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Guruprakash-coder/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
