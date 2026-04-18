@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/Guruprakash-coder/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Guruprakash-coder/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
