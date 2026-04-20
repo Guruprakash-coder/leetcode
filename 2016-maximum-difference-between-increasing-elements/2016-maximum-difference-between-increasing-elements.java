@@ -6,12 +6,11 @@ class Solution {
             if(nums[i]<min){
                 min=nums[i];
             }
-            
             max=Math.max(max,nums[i]-min);
             
         }
 
-        return max==0?-1:max;
+        return max<=0?-1:max;
 
     }
 }
