@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Guruprakash-coder/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Guruprakash-coder/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Guruprakash-coder/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Guruprakash-coder/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Guruprakash-coder/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Guruprakash-coder/leetcode/tree/master/0066-plus-one) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Guruprakash-coder/leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Guruprakash-coder/leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Guruprakash-coder/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Guruprakash-coder/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Guruprakash-coder/leetcode/tree/master/0067-add-binary) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Guruprakash-coder/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
