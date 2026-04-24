@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Guruprakash-coder/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Guruprakash-coder/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/Guruprakash-coder/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Guruprakash-coder/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3582-generate-tag-for-video-caption](https://github.com/Guruprakash-coder/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 ## Backtracking
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Guruprakash-coder/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Guruprakash-coder/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2833-furthest-point-from-origin](https://github.com/Guruprakash-coder/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Merge Sort
 |  |
 | ------- |
