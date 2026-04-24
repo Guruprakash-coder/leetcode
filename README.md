@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Guruprakash-coder/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Guruprakash-coder/leetcode/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0481-magical-string) |
 | [0680-valid-palindrome-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Guruprakash-coder/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Guruprakash-coder/leetcode/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/Guruprakash-coder/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Guruprakash-coder/leetcode/tree/master/0709-to-lower-case) |
