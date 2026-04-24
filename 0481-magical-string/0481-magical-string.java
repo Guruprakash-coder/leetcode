@@ -29,7 +29,7 @@ class Solution {
                 cnt++;
             }
         }
-        System.out.print(sb);
+       
         return cnt;
     }
 }
