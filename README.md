@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Guruprakash-coder/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0605-can-place-flowers](https://github.com/Guruprakash-coder/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Guruprakash-coder/leetcode/tree/master/0704-binary-search) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Guruprakash-coder/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Guruprakash-coder/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Guruprakash-coder/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guruprakash-coder/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
