@@ -11,8 +11,8 @@ class Solution {
             for(int j=i;j<nums.length;j++){
                 curr.add(nums[j]);
                 if(n==curr.size()){
-                    ans++;
-                    //break;
+                    ans+=nums.length-j;
+                    break;
                 }
             }
         }
