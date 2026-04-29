@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Guruprakash-coder/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2923-find-champion-i](https://github.com/Guruprakash-coder/leetcode/tree/master/2923-find-champion-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Guruprakash-coder/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Guruprakash-coder/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Guruprakash-coder/leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Guruprakash-coder/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Guruprakash-coder/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
