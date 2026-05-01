@@ -5,6 +5,7 @@ class Solution {
         Set<Character> set=new HashSet<>();
         for(int i=0;i<str.length;i++){
             set.add(str[i]);
+            if (set.size() >= 3) break;
             if(set.size()==(i+1)%3){
                 ans++;
             }
