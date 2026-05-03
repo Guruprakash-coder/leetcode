@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Guruprakash-coder/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Guruprakash-coder/leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Guruprakash-coder/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -463,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Guruprakash-coder/leetcode/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Guruprakash-coder/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
