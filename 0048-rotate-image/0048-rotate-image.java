@@ -1,19 +1,27 @@
 class Solution {
     public void rotate(int[][] matrix) {
-        int[][] ans=RotNindegree(matrix);
-        for(int i=0;i<ans.length;i++){
-            for(int j=0;j<ans[i].length;j++){
-                matrix[i][j]=ans[i][j];
+        int n=matrix.length;
+
+        for(int i=0;i<n;i++){
+            for(int j=i;j<n;j++){
+                int temp=matrix[i][j];
+                matrix[i][j]=matrix[j][i];
+                matrix[j][i]=temp;
             }
         }
-    }
-    public int[][] RotNindegree(int[][] mat){
-        int[][] ans=new int[mat.length][mat[0].length];
-        for(int i=0;i<mat.length;i++){
-            for(int j=0;j<mat[0].length;j++){
-                ans[i][j]=mat[mat.length-j-1][i];
+        for(int i=0;i<n;i++){
+            int left=0;
+            int right=n-1;
+            while(left<right){
+                int temp=matrix[i][left];
+                matrix[i][left]=matrix[i][right];
+                matrix[i][right]=temp;
+                left++;
+                right--;
+
             }
         }
-        return ans;
+
     }
+    
 }
