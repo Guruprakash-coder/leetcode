@@ -31,7 +31,7 @@ class Solution {
         ListNode first=temp.next;
         temp.next=null;
         ListNode last=first;
-        System.out.print(last.val);
+        
         while(last.next!=null){
             
             last=last.next;
