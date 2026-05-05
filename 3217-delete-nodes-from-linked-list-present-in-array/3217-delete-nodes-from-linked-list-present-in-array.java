@@ -10,26 +10,26 @@
  */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        Set<Integer> s=new HashSet<>();
-        for(int i=0;i<nums.length;i++){
-            s.add(nums[i]);
+           Set<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
         }
-        ListNode temp=head;
-        ListNode prev=null;
-        while(temp!=null){
-            if(s.contains(temp.val)){
-                if(prev!=null){
-                    prev.next=temp.next;
-                    temp=prev.next;
-                }else{
-                    head=temp.next;
-                    temp=temp.next;
-                }
-            }else{
-                prev=temp;
-                temp=temp.next;
+
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+
+        ListNode prev = dummy;
+        ListNode curr = head;
+
+        while (curr != null) {
+            if (set.contains(curr.val)) {
+                prev.next = curr.next; // delete
+            } else {
+                prev = curr;
             }
+            curr = curr.next;
         }
-        return head;
+
+        return dummy.next;
     }
 }
