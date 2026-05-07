@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Guruprakash-coder/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Guruprakash-coder/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Guruprakash-coder/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Guruprakash-coder/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Guruprakash-coder/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Guruprakash-coder/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Guruprakash-coder/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Guruprakash-coder/leetcode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Guruprakash-coder/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Guruprakash-coder/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Guruprakash-coder/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Guruprakash-coder/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Guruprakash-coder/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Guruprakash-coder/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Guruprakash-coder/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3582-generate-tag-for-video-caption](https://github.com/Guruprakash-coder/leetcode/tree/master/3582-generate-tag-for-video-caption) |
