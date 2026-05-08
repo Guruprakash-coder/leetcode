@@ -1,10 +1,5 @@
 class Solution {
-    static{
-        for(int i=0;i<300;i++){
-            findTheArrayConcVal(new int[1]);
-        }
-        
-    }
+   
     public static long findTheArrayConcVal(int[] nums) {
         System.gc();
         int i=0;
