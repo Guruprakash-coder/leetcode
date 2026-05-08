@@ -1,5 +1,6 @@
 class Solution {
     public long findTheArrayConcVal(int[] nums) {
+        System.gc();
         int i=0;
         int j=nums.length-1;
         long ans=0;
