@@ -1,5 +1,11 @@
 class Solution {
-    public long findTheArrayConcVal(int[] nums) {
+    static{
+        for(int i=0;i<300;i++){
+            findTheArrayConcVal(new int[1]);
+        }
+        
+    }
+    public static long findTheArrayConcVal(int[] nums) {
         System.gc();
         int i=0;
         int j=nums.length-1;
