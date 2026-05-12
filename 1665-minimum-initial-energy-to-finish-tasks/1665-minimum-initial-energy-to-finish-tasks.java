@@ -1,6 +1,7 @@
 class Solution {
     public int minimumEffort(int[][] tasks) {
         Arrays.sort(tasks,(a,b)->Integer.compare((b[1] - b[0]),(a[1] - a[0])));
+        
         long ans=0;
         long curr=0;
         for(int[] pair:tasks){
