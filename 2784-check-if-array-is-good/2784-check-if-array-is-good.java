@@ -1,17 +1,20 @@
 class Solution {
     public boolean isGood(int[] nums) {
-        if(nums.length <= 1){
-            return false;
-        }
-
-        Arrays.sort(nums);
-
-        for(int i = 0; i < nums.length - 1; i++){
-            if(nums[i] != i + 1){
+        Set<Integer> s=new HashSet<>();
+        boolean rep=false;
+        for(int num:nums){
+            if(num>nums.length-1){
                 return false;
             }
+            if(s.contains(num)){
+                if(num<nums.length-1 || rep){
+                    return false;
+                }
+                rep=true;
+                continue;
+            }
+            s.add(num);
         }
-
-        return nums[nums.length - 1] == nums.length - 1;
+        return true;
     }
 }
