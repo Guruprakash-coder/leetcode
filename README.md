@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Guruprakash-coder/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/Guruprakash-coder/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Guruprakash-coder/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Guruprakash-coder/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Guruprakash-coder/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Guruprakash-coder/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Guruprakash-coder/leetcode/tree/master/2562-find-the-array-concatenation-value) |
