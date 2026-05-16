@@ -15,7 +15,7 @@ class Solution {
                 end--;
             }
         }
-
+        
         return nums[start];
     }
 }
