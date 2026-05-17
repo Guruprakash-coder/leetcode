@@ -6,6 +6,9 @@ class Solution {
                 return false;
             }
             reachable=Math.max(reachable,nums[i]+i);
+            if(reachable>nums.length-1){
+                return true;
+            }
         }
         return true;
     }
