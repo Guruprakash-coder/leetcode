@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Guruprakash-coder/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Guruprakash-coder/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Guruprakash-coder/leetcode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Prefix Sum
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Guruprakash-coder/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Guruprakash-coder/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Guruprakash-coder/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Guruprakash-coder/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2315-count-asterisks](https://github.com/Guruprakash-coder/leetcode/tree/master/2315-count-asterisks) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Guruprakash-coder/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
