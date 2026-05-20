@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Guruprakash-coder/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Guruprakash-coder/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Guruprakash-coder/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Guruprakash-coder/leetcode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Guruprakash-coder/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Guruprakash-coder/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/Guruprakash-coder/leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Guruprakash-coder/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Guruprakash-coder/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Guruprakash-coder/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Guruprakash-coder/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Guruprakash-coder/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
