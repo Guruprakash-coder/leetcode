@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Guruprakash-coder/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Guruprakash-coder/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Guruprakash-coder/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Guruprakash-coder/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Guruprakash-coder/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Guruprakash-coder/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Guruprakash-coder/leetcode/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Guruprakash-coder/leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Guruprakash-coder/leetcode/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guruprakash-coder/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Guruprakash-coder/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
