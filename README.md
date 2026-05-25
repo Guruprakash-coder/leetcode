@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Guruprakash-coder/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2390-removing-stars-from-a-string](https://github.com/Guruprakash-coder/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Guruprakash-coder/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Guruprakash-coder/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Guruprakash-coder/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2315-count-asterisks](https://github.com/Guruprakash-coder/leetcode/tree/master/2315-count-asterisks) |
+| [2390-removing-stars-from-a-string](https://github.com/Guruprakash-coder/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Guruprakash-coder/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Guruprakash-coder/leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2390-removing-stars-from-a-string](https://github.com/Guruprakash-coder/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
