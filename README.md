@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1095-find-in-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Guruprakash-coder/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Guruprakash-coder/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Guruprakash-coder/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Guruprakash-coder/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Guruprakash-coder/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Guruprakash-coder/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Guruprakash-coder/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Database
 |  |
 | ------- |
