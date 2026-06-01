@@ -600,11 +600,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0101-symmetric-tree) |
 | [1306-jump-game-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1306-jump-game-iii) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0101-symmetric-tree) |
 ## Union-Find
@@ -631,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
