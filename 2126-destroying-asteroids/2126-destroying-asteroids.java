@@ -3,14 +3,11 @@ class Solution {
         Arrays.sort(asteroids);
         long curr=mass;
         for(int i=0;i<asteroids.length;i++){
-            if(curr>=asteroids[i]){
-                curr+=asteroids[i];
-            }else{
+            if(curr<asteroids[i]){
                 return false;
             }
-            if(curr>=asteroids[asteroids.length-1]){
-                return true;
-            }
+            curr+=asteroids[i];
+            
         }
         return true;
     }
