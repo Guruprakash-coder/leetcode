@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Guruprakash-coder/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Guruprakash-coder/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/0788-rotated-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Guruprakash-coder/leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
 |  |
 | ------- |
