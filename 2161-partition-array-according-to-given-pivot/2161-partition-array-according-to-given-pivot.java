@@ -1,7 +1,7 @@
 class Solution {
     
     public int[] pivotArray(int[] nums, int pivot) {
-        System.gc();
+        
         int[] arr = new int[nums.length];
         int idx = 0;
 
