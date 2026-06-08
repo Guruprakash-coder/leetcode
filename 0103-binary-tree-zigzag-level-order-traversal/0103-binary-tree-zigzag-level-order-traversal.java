@@ -24,7 +24,7 @@ class Solution {
         q.offer(root);
         while(!q.isEmpty()){
             int LevelSize=q.size();
-            ArrayList<Integer> cl=new ArrayList<>();
+            LinkedList<Integer> cl=new LinkedList<>();
             for(int i=0;i<LevelSize;i++){
                 TreeNode curr=q.poll();
                 if(curr.left!=null){
