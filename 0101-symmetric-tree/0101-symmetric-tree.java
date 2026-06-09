@@ -15,17 +15,26 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        return isSyn(root.left,root.right);
-    }
-    boolean isSyn(TreeNode p,TreeNode q){
-        
-        if(q==null || p==null){
-            return p==q;
+        Queue<TreeNode> q=new LinkedList<>();
+        q.offer(root.left);
+        q.offer(root.right); 
+        while(!q.isEmpty()){
+            TreeNode left=q.poll();
+            TreeNode right=q.poll();
+            if(left==null && right==null){
+                continue;
+            }
+            if(left==null || right==null){
+                return false;
+            }
+            if(left.val!=right.val){
+                return false;
+            }
+            q.offer(left.left);
+            q.offer(right.right);
+            q.offer(left.right);
+            q.offer(right.left);
         }
-        if(p.val != q.val){
-            return false;
-        } 
-
-        return isSyn(p.left,q.right) && isSyn(p.right,q.left);
+        return true;
     }
 }
