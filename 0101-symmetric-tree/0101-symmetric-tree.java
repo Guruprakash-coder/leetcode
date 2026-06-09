@@ -24,7 +24,7 @@ class Solution {
         }
         if(p.val != q.val){
             return false;
-        }
+        } 
 
         return isSyn(p.left,q.right) && isSyn(p.right,q.left);
     }
