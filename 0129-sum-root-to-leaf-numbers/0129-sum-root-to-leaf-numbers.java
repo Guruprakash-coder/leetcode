@@ -15,24 +15,16 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        List<Integer> nums=new ArrayList<>();
-        findNums(root,nums,0);
-        int tot=0;
-        for(int i=0;i<nums.size();i++){
-            tot+=nums.get(i);
-        }
-        return tot;
+        return helper(root,0);
     }
-    private void findNums(TreeNode node,List<Integer> arr,int num){
+    private int helper(TreeNode node,int n){
         if(node==null){
-            return;
+            return 0;
         }
-        num=num*10+node.val;
+        n=n*10+node.val;
         if(node.left==null && node.right==null){
-            arr.add(num);
+            return n;
         }
-
-        findNums(node.left,arr,num);
-        findNums(node.right,arr,num);
+        return helper(node.left,n) + helper(node.right,n);
     }
 }
