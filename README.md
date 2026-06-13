@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3838-weighted-word-mapping](https://github.com/Guruprakash-coder/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Guruprakash-coder/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Guruprakash-coder/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Guruprakash-coder/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3582-generate-tag-for-video-caption](https://github.com/Guruprakash-coder/leetcode/tree/master/3582-generate-tag-for-video-caption) |
+| [3838-weighted-word-mapping](https://github.com/Guruprakash-coder/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Guruprakash-coder/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3582-generate-tag-for-video-caption](https://github.com/Guruprakash-coder/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3803-count-residue-prefixes](https://github.com/Guruprakash-coder/leetcode/tree/master/3803-count-residue-prefixes) |
+| [3838-weighted-word-mapping](https://github.com/Guruprakash-coder/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |
