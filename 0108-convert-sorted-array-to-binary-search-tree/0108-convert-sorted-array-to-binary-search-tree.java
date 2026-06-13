@@ -14,37 +14,19 @@
  * }
  */
 class Solution {
-    TreeNode root;
     public TreeNode sortedArrayToBST(int[] nums) {
-        if(nums.length==0){
+        return helper(nums,0,nums.length-1);
+    }
+    private TreeNode helper(int[] nums,int i,int j){
+        if(i>j){
             return null;
         }
-        populatedSorted(nums,0,nums.length-1);
-        return root;
-    }
-    private void populatedSorted(int[] nums,int start,int end){
-        if(start>end){
-            return;
-        }
-        int mid=(start+end)/2;
-        root=insert(nums[mid]);
-        populatedSorted(nums,start,mid-1);
-        populatedSorted(nums,mid+1,end);
+        int mid=(i+j)/2;
+        
+        TreeNode root=new TreeNode(nums[mid]);
+        root.left=helper(nums,i,mid-1);
+        root.right=helper(nums,mid+1,j);
 
-    }
-    private TreeNode insert(int n){
-        return insert(root,n);
-    }
-    private TreeNode insert(TreeNode node,int n){
-        if(node==null){
-            
-            return new TreeNode(n);
-        }
-        if(n<node.val){
-            node.left=insert(node.left,n);
-        }else{
-            node.right=insert(node.right,n);
-        }
-        return node;
+        return root;
     }
 }
