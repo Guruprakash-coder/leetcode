@@ -14,16 +14,16 @@ class Solution {
         
         ListNode slow=head;
         ListNode fast=head;
-        ListNode prev=slow;
+        
         while(fast!=null && fast.next!=null){
-            prev=slow;
+            
             slow=slow.next;
             fast=fast.next.next;
         }
         
-        prev.next=rev(slow);
+        slow=rev(slow);
         int max=Integer.MIN_VALUE;
-        slow=prev.next;
+        
         ListNode temp=head;
         
         while(slow!=null){
