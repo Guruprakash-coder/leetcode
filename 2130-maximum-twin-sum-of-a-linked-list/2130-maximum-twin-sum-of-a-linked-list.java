@@ -20,7 +20,7 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-        System.out.println(prev.val);
+        
         prev.next=rev(slow);
         int max=Integer.MIN_VALUE;
         slow=prev.next;
