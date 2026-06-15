@@ -1,6 +1,6 @@
 import pandas as pd
 
 def getDataframeSize(players: pd.DataFrame) -> List[int]:
-    ans=list(players.shape)
-    return ans
+    
+    return [players.shape[0],players.shape[1]]
     
