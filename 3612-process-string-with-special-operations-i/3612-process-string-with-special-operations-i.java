@@ -8,9 +8,7 @@ class Solution {
             }else if(ch=='#'){
                 ans.append(ans);
             }else if(ch=='*'){
-                if(ans.length()==0){
-                    continue;
-                }else{
+                if(ans.length()>=1){
                     ans.deleteCharAt(ans.length()-1);
                 }
                 
