@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Guruprakash-coder/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Guruprakash-coder/leetcode/tree/master/0687-longest-univalue-path) |
 | [0993-cousins-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Guruprakash-coder/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Guruprakash-coder/leetcode/tree/master/0687-longest-univalue-path) |
 | [0993-cousins-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Guruprakash-coder/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Guruprakash-coder/leetcode/tree/master/0687-longest-univalue-path) |
 | [0993-cousins-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Union-Find
 |  |
