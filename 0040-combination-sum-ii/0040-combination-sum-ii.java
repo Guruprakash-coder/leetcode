@@ -17,6 +17,9 @@ class Solution {
                 if(i>idx && candidates[i]==candidates[i-1]){
                     continue;
                 }
+                if(candidates[i]>rem){
+                    return;
+                }
                 temp.add(candidates[i]);
                 helper(list,temp,candidates,rem-candidates[i],i+1);
                 temp.remove(temp.size()-1);
