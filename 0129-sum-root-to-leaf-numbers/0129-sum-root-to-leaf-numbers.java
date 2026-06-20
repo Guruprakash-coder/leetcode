@@ -22,9 +22,11 @@ class Solution {
             return 0;
         }
         n=n*10+node.val;
+
         if(node.left==null && node.right==null){
             return n;
         }
+
         return helper(node.left,n) + helper(node.right,n);
     }
 }
