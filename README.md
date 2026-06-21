@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Guruprakash-coder/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Guruprakash-coder/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/Guruprakash-coder/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Guruprakash-coder/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Guruprakash-coder/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Guruprakash-coder/leetcode/tree/master/1861-rotating-the-box) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guruprakash-coder/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Guruprakash-coder/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/Guruprakash-coder/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Guruprakash-coder/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Guruprakash-coder/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Guruprakash-coder/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/Guruprakash-coder/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Guruprakash-coder/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2126-destroying-asteroids](https://github.com/Guruprakash-coder/leetcode/tree/master/2126-destroying-asteroids) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guruprakash-coder/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Guruprakash-coder/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1833-maximum-ice-cream-bars](https://github.com/Guruprakash-coder/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Guruprakash-coder/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Guruprakash-coder/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Guruprakash-coder/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
