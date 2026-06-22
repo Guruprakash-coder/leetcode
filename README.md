@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Guruprakash-coder/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0859-buddy-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0859-buddy-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Guruprakash-coder/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guruprakash-coder/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Guruprakash-coder/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/Guruprakash-coder/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1446-consecutive-characters](https://github.com/Guruprakash-coder/leetcode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Guruprakash-coder/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1528-shuffle-string) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Guruprakash-coder/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Guruprakash-coder/leetcode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Guruprakash-coder/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guruprakash-coder/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Guruprakash-coder/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
