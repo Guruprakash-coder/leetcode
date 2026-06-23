@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0605-can-place-flowers](https://github.com/Guruprakash-coder/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/Guruprakash-coder/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Guruprakash-coder/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Guruprakash-coder/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/Guruprakash-coder/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Guruprakash-coder/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Guruprakash-coder/leetcode/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Guruprakash-coder/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Guruprakash-coder/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Guruprakash-coder/leetcode/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/Guruprakash-coder/leetcode/tree/master/0695-max-area-of-island) |
 | [0993-cousins-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Guruprakash-coder/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/Guruprakash-coder/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Guruprakash-coder/leetcode/tree/master/0695-max-area-of-island) |
 | [0993-cousins-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Guruprakash-coder/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Guruprakash-coder/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Guruprakash-coder/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Guruprakash-coder/leetcode/tree/master/0695-max-area-of-island) |
 ## Number Theory
 |  |
 | ------- |
