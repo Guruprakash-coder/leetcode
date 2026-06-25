@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Guruprakash-coder/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Guruprakash-coder/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Guruprakash-coder/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3803-count-residue-prefixes](https://github.com/Guruprakash-coder/leetcode/tree/master/3803-count-residue-prefixes) |
 ## Bit Manipulation
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Guruprakash-coder/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Guruprakash-coder/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Guruprakash-coder/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Guruprakash-coder/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -605,12 +609,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Guruprakash-coder/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2833-furthest-point-from-origin](https://github.com/Guruprakash-coder/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3467-transform-array-by-parity](https://github.com/Guruprakash-coder/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Guruprakash-coder/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -858,4 +864,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Guruprakash-coder/leetcode/tree/master/0547-number-of-provinces) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
