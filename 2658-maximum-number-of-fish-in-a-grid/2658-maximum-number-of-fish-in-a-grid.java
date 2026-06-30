@@ -5,19 +5,20 @@ class Solution {
             for(int j=0;j<grid[0].length;j++){
                 if(grid[i][j]!=0){
                     
-                    max=Math.max(dfs(grid,i,j,new boolean[grid.length][grid[0].length]),max);
+                    max=Math.max(dfs(grid,i,j),max);
                 }
             }
         }
         return max;
     }
-    private int dfs(int[][] grid,int r,int c,boolean[][] vis){
+    private int dfs(int[][] grid,int r,int c){
         
         
-        if(r<0 || c<0 || r>=grid.length || c>=grid[0].length || vis[r][c] || grid[r][c]==0){
+        if(r<0 || c<0 || r>=grid.length || c>=grid[0].length ||  grid[r][c]==0){
             return 0;
         }
-        vis[r][c]=true;
-        return grid[r][c]+dfs(grid,r+1,c,vis)+dfs(grid,r-1,c,vis)+dfs(grid,r,c+1,vis)+dfs(grid,r,c-1,vis);
+        int fish=grid[r][c];
+        grid[r][c]=0;
+        return fish+dfs(grid,r+1,c)+dfs(grid,r-1,c)+dfs(grid,r,c+1)+dfs(grid,r,c-1);
     }
 }
