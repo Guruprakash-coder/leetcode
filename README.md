@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Guruprakash-coder/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Guruprakash-coder/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Guruprakash-coder/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2540-minimum-common-value](https://github.com/Guruprakash-coder/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Guruprakash-coder/leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Guruprakash-coder/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Guruprakash-coder/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Guruprakash-coder/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Guruprakash-coder/leetcode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Guruprakash-coder/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Guruprakash-coder/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
