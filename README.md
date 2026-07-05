@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Guruprakash-coder/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Guruprakash-coder/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Guruprakash-coder/leetcode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0859-buddy-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0859-buddy-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Guruprakash-coder/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Guruprakash-coder/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Guruprakash-coder/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Guruprakash-coder/leetcode/tree/master/0443-string-compression) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Guruprakash-coder/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Guruprakash-coder/leetcode/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/Guruprakash-coder/leetcode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Guruprakash-coder/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guruprakash-coder/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
