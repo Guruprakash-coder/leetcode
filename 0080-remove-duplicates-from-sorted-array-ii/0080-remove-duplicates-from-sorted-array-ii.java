@@ -10,7 +10,7 @@ class Solution {
                 nums[k++] = nums[i];
             }
         }
-        System.out.println(Arrays.toString(nums));
+        
 
         return k;
     }
