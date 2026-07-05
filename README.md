@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Guruprakash-coder/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Guruprakash-coder/leetcode/tree/master/1020-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Guruprakash-coder/leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/Guruprakash-coder/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Guruprakash-coder/leetcode/tree/master/1020-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Guruprakash-coder/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Guruprakash-coder/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Guruprakash-coder/leetcode/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Guruprakash-coder/leetcode/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Guruprakash-coder/leetcode/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Guruprakash-coder/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Guruprakash-coder/leetcode/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Guruprakash-coder/leetcode/tree/master/1765-map-of-highest-peak) |
@@ -863,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Guruprakash-coder/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Guruprakash-coder/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Guruprakash-coder/leetcode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Guruprakash-coder/leetcode/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Number Theory
