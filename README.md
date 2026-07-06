@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Guruprakash-coder/leetcode/tree/master/1020-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1288-remove-covered-intervals](https://github.com/Guruprakash-coder/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Guruprakash-coder/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1306-jump-game-iii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/Guruprakash-coder/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guruprakash-coder/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Guruprakash-coder/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
