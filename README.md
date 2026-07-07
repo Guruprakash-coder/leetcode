@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Guruprakash-coder/leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Guruprakash-coder/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
