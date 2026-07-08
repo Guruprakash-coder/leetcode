@@ -8,9 +8,7 @@ class Solution {
     }
     private void perm(List<List<Integer>> ans,List<Integer>curr,int[] nums,Set<Integer> ind){
         if(curr.size()==nums.length){
-            if(ans.contains(curr)){
-                return;
-            }
+            
             ans.add(new ArrayList<>(curr));
             return;
         }else{
@@ -18,6 +16,8 @@ class Solution {
                 if(ind.contains(i)){
                     continue;
                 }
+                if(i > 0 && nums[i] == nums[i-1] && !ind.contains(i-1))
+                continue;
                 curr.add(nums[i]);
                 ind.add(i);
                 perm(ans,curr,nums,ind);
