@@ -7,7 +7,7 @@ class Solution {
         dp[0]=nums[0];
         for(int i=1;i<nums.length-1;i++){
             int nopick=dp[i-1];
-            int pick=i>1?dp[i-2]+nums[i]:0;
+            int pick=i>1?dp[i-2]+nums[i]:nums[i];
 
             dp[i]=Math.max(nopick,pick);
         }
@@ -15,7 +15,7 @@ class Solution {
         dp2[1]=nums[1];
         for(int i=2;i<nums.length;i++){
             int nopick=dp2[i-1];
-            int pick=i>1?dp2[i-2]+nums[i]:0;
+            int pick=i>1?dp2[i-2]+nums[i]:nums[i];
 
             dp2[i]=Math.max(nopick,pick); 
         }
