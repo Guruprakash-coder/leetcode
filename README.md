@@ -737,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/1291-sequential-digits) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Guruprakash-coder/leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
