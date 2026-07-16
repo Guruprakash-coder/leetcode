@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Guruprakash-coder/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Guruprakash-coder/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Guruprakash-coder/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Guruprakash-coder/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Guruprakash-coder/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0268-missing-number) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Guruprakash-coder/leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/1291-sequential-digits) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Guruprakash-coder/leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Guruprakash-coder/leetcode/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Guruprakash-coder/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
