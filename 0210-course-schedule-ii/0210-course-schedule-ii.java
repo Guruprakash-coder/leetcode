@@ -1,17 +1,5 @@
 class Solution {
-    private boolean topo(List<List<Integer>> adj,int[] vis,int i,Stack<Integer> s){
-        vis[i]=2;
-        for(int neigh:adj.get(i)){
-            if(vis[neigh]==2){
-                return true;
-            }else if(vis[neigh]==0){
-                if(topo(adj,vis,neigh,s)) return true; ;
-            }
-        }
-        vis[i]=1;
-        s.push(i);
-        return false;
-    }
+    
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         List<List<Integer>> adj = new ArrayList<>();
         for(int i=0;i<numCourses;i++){
@@ -20,18 +8,30 @@ class Solution {
         for(int[] p:prerequisites){
             adj.get(p[1]).add(p[0]);
         }
-        Stack<Integer> s=new Stack<>();
-        int[] vis=new int[numCourses];
-        for(int i=0;i<numCourses;i++){
-            if(vis[i]==0){
-                if(topo(adj,vis,i,s)) return new int[] {};
-            } 
+        int[] inDegree=new int[adj.size()];
+        for(int i=0;i<adj.size();i++){
+            for(int it:adj.get(i)){
+                inDegree[it]++;
+            }
         }
+        Queue<Integer> q=new LinkedList<>();
+        for(int i=0;i<inDegree.length;i++){
+            if(inDegree[i]==0) q.offer(i);
+        }
+        int[] res=new int[adj.size()];
         int i=0;
-        int[] res=new int[numCourses];
-        while(!s.isEmpty()){
-            res[i++]=s.pop();
+        while(!q.isEmpty()){
+            int node=q.poll();
+            res[i++]=node;
+            for(int it:adj.get(node)){
+                inDegree[it]--;
+                if(inDegree[it]==0){
+                    q.offer(it);
+                }
+            }
         }
+        if(i!=adj.size()) return new int[] {};
         return res;
+
     }
 }
