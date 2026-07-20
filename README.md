@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Guruprakash-coder/leetcode/tree/master/1020-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1260-shift-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Guruprakash-coder/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Guruprakash-coder/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/Guruprakash-coder/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Guruprakash-coder/leetcode/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Guruprakash-coder/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Guruprakash-coder/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1260-shift-2d-grid) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Guruprakash-coder/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Guruprakash-coder/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Guruprakash-coder/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
