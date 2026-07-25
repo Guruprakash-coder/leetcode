@@ -19,13 +19,17 @@ class Solution {
         ArrayList<Integer> ans=new ArrayList<>();
         while(!q.isEmpty()){
             int node=q.poll();
-            ans.add(node);
+            
             for(int neigh:revadj.get(node)){
                 if(--inDegree[neigh]==0) q.offer(neigh);
             }
 
         }
-        Collections.sort(ans);
+        for(int i=0;i<inDegree.length;i++){
+            if(inDegree[i]==0){
+                ans.add(i);
+            }
+        }
         
         return ans;
 
