@@ -1,28 +1,33 @@
 class Solution {
-    private boolean dfs(int[][] graph,int[] vis,int node){
-        vis[node]=2;
-        for(int neigh:graph[node]){
-            if(vis[neigh]==0){
-                if(dfs(graph,vis,neigh)) return true;
-            }else if(vis[neigh]==2){
-                return true;
-            }
-            
-        }
-        vis[node]=1;
-        return false;
-    }
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        int[] vis=new int[graph.length];
+        int[] inDegree=new int[graph.length];
+        List<List<Integer>> revadj=new ArrayList<>();
+        Queue<Integer> q=new LinkedList<>();
+        for(int[] g:graph){
+            revadj.add(new ArrayList<>());
+        }
         for(int i=0;i<graph.length;i++){
-            if(vis[i]==0) dfs(graph,vis,i);
+            
+            for(int neigh:graph[i]){
+                revadj.get(neigh).add(i);
+            }
+            inDegree[i]+=graph[i].length;
+            if(inDegree[i]==0){
+                q.add(i);
+            }
         }
         ArrayList<Integer> ans=new ArrayList<>();
-        for(int i=0;i<graph.length;i++){
-            if(vis[i]==1){
-                ans.add(i);
+        while(!q.isEmpty()){
+            int node=q.poll();
+            ans.add(node);
+            for(int neigh:revadj.get(node)){
+                if(--inDegree[neigh]==0) q.offer(neigh);
             }
+
         }
+        Collections.sort(ans);
+        
         return ans;
+
     }
 }
