@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Guruprakash-coder/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0881-boats-to-save-people](https://github.com/Guruprakash-coder/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Guruprakash-coder/leetcode/tree/master/0994-rotting-oranges) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/Guruprakash-coder/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Guruprakash-coder/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Guruprakash-coder/leetcode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Guruprakash-coder/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Guruprakash-coder/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Guruprakash-coder/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Guruprakash-coder/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Guruprakash-coder/leetcode/tree/master/1768-merge-strings-alternately) |
