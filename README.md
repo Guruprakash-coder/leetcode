@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Guruprakash-coder/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Guruprakash-coder/leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Guruprakash-coder/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Guruprakash-coder/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Guruprakash-coder/leetcode/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Guruprakash-coder/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Guruprakash-coder/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0394-decode-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Guruprakash-coder/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Guruprakash-coder/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
