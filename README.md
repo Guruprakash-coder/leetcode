@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Guruprakash-coder/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Guruprakash-coder/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Guruprakash-coder/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Guruprakash-coder/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Guruprakash-coder/leetcode/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Guruprakash-coder/leetcode/tree/master/0877-stone-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -1009,4 +1012,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Guruprakash-coder/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Guruprakash-coder/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Guruprakash-coder/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
