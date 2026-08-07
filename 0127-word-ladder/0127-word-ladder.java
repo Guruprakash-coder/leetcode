@@ -21,8 +21,10 @@ class Solution {
             int level=node.lev;
             if(word.equals(endWord)) return level;
             for(int i=0;i<word.length();i++){
+                char[] charArray=word.toCharArray();
+                char original=charArray[i];
                 for(char ch='a';ch<='z';ch++){
-                    char[] charArray=word.toCharArray();
+                    if (ch == original) continue;
                     charArray[i]=ch;
                     String neww=new String(charArray);
                     if(s.contains(neww)){
@@ -30,6 +32,7 @@ class Solution {
                         s.remove(neww);
                     }
                 }
+                charArray[i]=original;
             }
         }
         return 0;
