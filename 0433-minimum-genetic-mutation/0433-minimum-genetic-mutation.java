@@ -8,6 +8,7 @@ class Solution {
         }
     }
     public int minMutation(String startGene, String endGene, String[] bank) {
+        char[] choices = {'A', 'C', 'G', 'T'};
         Set<String> s=new HashSet<>();
         for(String st:bank){
             s.add(st);
@@ -23,7 +24,7 @@ class Solution {
             for(int i=0;i<gen.length();i++){
                 char[] charArray=gen.toCharArray();
                 char orig=charArray[i];
-                for(char ch='A';ch<='Z';ch++){
+                for(char ch:choices){
                     charArray[i]=ch;
                     String newg=new String(charArray);
                     if(s.contains(newg)){
