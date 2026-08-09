@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Guruprakash-coder/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Guruprakash-coder/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Guruprakash-coder/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Guruprakash-coder/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Guruprakash-coder/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Guruprakash-coder/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Guruprakash-coder/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Guruprakash-coder/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Guruprakash-coder/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Guruprakash-coder/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Guruprakash-coder/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Guruprakash-coder/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
