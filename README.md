@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Guruprakash-coder/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Guruprakash-coder/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Guruprakash-coder/leetcode/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/Guruprakash-coder/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0859-buddy-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0859-buddy-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Guruprakash-coder/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Guruprakash-coder/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/Guruprakash-coder/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Guruprakash-coder/leetcode/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Guruprakash-coder/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0481-magical-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0481-magical-string) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Guruprakash-coder/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/Guruprakash-coder/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Guruprakash-coder/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Guruprakash-coder/leetcode/tree/master/0547-number-of-provinces) |
@@ -1035,4 +1038,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Guruprakash-coder/leetcode/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/Guruprakash-coder/leetcode/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
