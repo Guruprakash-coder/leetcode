@@ -22,8 +22,7 @@ class Solution {
         if(node==null) return false;
         if(s.contains(k-node.val)) return true;
         s.add(node.val);
-        boolean left=dfs(node.left,k,s);
-        boolean right=dfs(node.right,k,s);
-        return left || right;
+        
+        return dfs(node.left,k,s) || dfs(node.right,k,s);
     }
 }
