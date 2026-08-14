@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Guruprakash-coder/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Guruprakash-coder/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Guruprakash-coder/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Guruprakash-coder/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Guruprakash-coder/leetcode/tree/master/0066-plus-one) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Guruprakash-coder/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Guruprakash-coder/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Guruprakash-coder/leetcode/tree/master/0200-number-of-islands) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Guruprakash-coder/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Guruprakash-coder/leetcode/tree/master/0657-robot-return-to-origin) |
