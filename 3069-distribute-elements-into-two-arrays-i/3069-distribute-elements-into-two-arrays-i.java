@@ -5,10 +5,10 @@ class Solution {
         arr1.add(nums[0]);
         arr2.add(nums[1]);
         for(int i=2;i<nums.length;i++){
-            int prev1=arr1.get(arr1.size()-1);
-            int prev2=arr2.get(arr2.size()-1);
-            if(prev1>prev2) arr1.add(nums[i]);
-            else arr2.add(nums[i]);
+            if (arr1.get(arr1.size() - 1) > arr2.get(arr2.size() - 1))
+    arr1.add(nums[i]);
+else
+    arr2.add(nums[i]);
         }
         int[] res=new int[nums.length];
         int idx=0;
