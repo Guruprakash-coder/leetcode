@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Guruprakash-coder/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Guruprakash-coder/leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Guruprakash-coder/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0792-number-of-matching-subsequences](https://github.com/Guruprakash-coder/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0821-shortest-distance-to-a-character](https://github.com/Guruprakash-coder/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Guruprakash-coder/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Guruprakash-coder/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0792-number-of-matching-subsequences](https://github.com/Guruprakash-coder/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1095-find-in-mountain-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Guruprakash-coder/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Guruprakash-coder/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0792-number-of-matching-subsequences](https://github.com/Guruprakash-coder/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0859-buddy-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0859-buddy-strings) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Guruprakash-coder/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0792-number-of-matching-subsequences](https://github.com/Guruprakash-coder/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0881-boats-to-save-people](https://github.com/Guruprakash-coder/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/0788-rotated-digits) |
+| [0792-number-of-matching-subsequences](https://github.com/Guruprakash-coder/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/Guruprakash-coder/leetcode/tree/master/0877-stone-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
@@ -622,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Guruprakash-coder/leetcode/tree/master/0709-to-lower-case) |
+| [0792-number-of-matching-subsequences](https://github.com/Guruprakash-coder/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/Guruprakash-coder/leetcode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Guruprakash-coder/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0859-buddy-strings) |
@@ -838,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Guruprakash-coder/leetcode/tree/master/0014-longest-common-prefix) |
+| [0792-number-of-matching-subsequences](https://github.com/Guruprakash-coder/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Guruprakash-coder/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Guruprakash-coder/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
