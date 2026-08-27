@@ -16,6 +16,7 @@ class Solution {
             int curdis=node[0];
             int r=node[1];
             int c=node[2];
+            if(curdis > dist[r][c]) continue;
             if(r!=n-1){
                 if(curdis+grid[r+1][c] < dist[r+1][c]){
                     dist[r+1][c]=curdis+grid[r+1][c];
