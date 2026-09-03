@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Guruprakash-coder/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Guruprakash-coder/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Guruprakash-coder/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Guruprakash-coder/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Guruprakash-coder/leetcode/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/Guruprakash-coder/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/Guruprakash-coder/leetcode/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Guruprakash-coder/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Guruprakash-coder/leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Guruprakash-coder/leetcode/tree/master/0832-flipping-an-image) |
+| [0931-minimum-falling-path-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Guruprakash-coder/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Guruprakash-coder/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
