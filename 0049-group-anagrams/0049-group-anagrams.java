@@ -11,6 +11,7 @@ class Solution {
             }
             map.get(key).add(s);
         }
+        
         return new ArrayList<>(map.values());
     }
 }
