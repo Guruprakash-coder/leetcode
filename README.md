@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guruprakash-coder/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Guruprakash-coder/leetcode/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Guruprakash-coder/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1463-cherry-pickup-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1528-shuffle-string) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Guruprakash-coder/leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1463-cherry-pickup-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1463-cherry-pickup-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Guruprakash-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Guruprakash-coder/leetcode/tree/master/1672-richest-customer-wealth) |
