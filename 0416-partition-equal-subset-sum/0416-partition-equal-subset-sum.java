@@ -21,7 +21,12 @@ class Solution {
         if(nums[ind]<=rem){
             take=f(nums,dp,ind-1,rem-nums[ind]);
         }
-        if(take==true ) return true;
+        if(take==true ) 
+        {   
+            dp[ind][rem]=1;
+            return true;
+        }
+        
         boolean notake=f(nums,dp,ind-1,rem);
         dp[ind][rem]=(take||notake)?1:0;
         return take||notake;
