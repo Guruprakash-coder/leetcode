@@ -15,9 +15,7 @@ class Solution {
     private boolean f(int[] nums,int[][] dp,int ind,int rem){
         if(rem==0) return true;
         if(ind==0) return rem==0;
-        if(rem<0 || ind<0){
-            return false;
-        }
+        
         if(dp[ind][rem]!=-1) return dp[ind][rem]==1;
         boolean take=false;
         if(nums[ind]<=rem){
