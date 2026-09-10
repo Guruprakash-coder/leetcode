@@ -938,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Guruprakash-coder/leetcode/tree/master/0687-longest-univalue-path) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Guruprakash-coder/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Guruprakash-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Guruprakash-coder/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Guruprakash-coder/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Guruprakash-coder/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Guruprakash-coder/leetcode/tree/master/0687-longest-univalue-path) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Guruprakash-coder/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Guruprakash-coder/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
 | ------- |
