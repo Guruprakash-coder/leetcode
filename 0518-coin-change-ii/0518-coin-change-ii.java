@@ -7,7 +7,7 @@ class Solution {
         return f(coins,dp,coins.length-1,amount);
     }
     private int f(int[] coins,int[][] dp,int ind,int amt){
-        
+        if(amt==0) return 1;
         if(ind==0){
             if(amt%coins[0]==0) return 1;
             return 0;
