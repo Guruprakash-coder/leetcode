@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1528-shuffle-string) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Guruprakash-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Guruprakash-coder/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/Guruprakash-coder/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Guruprakash-coder/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Guruprakash-coder/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Guruprakash-coder/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Guruprakash-coder/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Guruprakash-coder/leetcode/tree/master/2540-minimum-common-value) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Guruprakash-coder/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guruprakash-coder/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Guruprakash-coder/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Guruprakash-coder/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Guruprakash-coder/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Guruprakash-coder/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Guruprakash-coder/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Guruprakash-coder/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Guruprakash-coder/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -854,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Guruprakash-coder/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Guruprakash-coder/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Guruprakash-coder/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Guruprakash-coder/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Guruprakash-coder/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
