@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Guruprakash-coder/leetcode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Guruprakash-coder/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Guruprakash-coder/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2923-find-champion-i](https://github.com/Guruprakash-coder/leetcode/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Guruprakash-coder/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/1463-cherry-pickup-ii) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Guruprakash-coder/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -1193,11 +1195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/0518-coin-change-ii) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Guruprakash-coder/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Guruprakash-coder/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
