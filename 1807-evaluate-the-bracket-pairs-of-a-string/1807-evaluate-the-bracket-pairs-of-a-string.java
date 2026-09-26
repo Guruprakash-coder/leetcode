@@ -1,37 +1,28 @@
 class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
-        StringBuilder ans = new StringBuilder();
-
         Map<String, String> m = new HashMap<>();
+
         for (List<String> k : knowledge) {
             m.put(k.get(0), k.get(1));
         }
 
-        Stack<Character> st = new Stack<>();
+        StringBuilder ans = new StringBuilder();
 
-        for (int i = s.length() - 1; i >= 0; i--) {
-            char ch = s.charAt(i);
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '(') {
+                int j = i + 1;
 
-            if (ch == ')') {
-                st.push(ch);
-            } 
-            else if (st.isEmpty()) {
-                ans.insert(0, ch);
-            } 
-            else if (ch == '(') {
-                StringBuilder curr = new StringBuilder();
-
-                while (st.peek() != ')') {
-                    curr.append(st.pop());
+                while (s.charAt(j) != ')') {
+                    j++;
                 }
-                st.pop(); 
-                if (m.containsKey(curr.toString())) {
-                    ans.insert(0, m.get(curr.toString()));
-                } else {
-                    ans.insert(0, '?');
-                }
-            }else{
-                st.push(ch);
+
+                String key = s.substring(i + 1, j);
+
+                ans.append(m.getOrDefault(key, "?"));
+
+                i = j;
+            } else {
+                ans.append(s.charAt(i));
             }
         }
 
