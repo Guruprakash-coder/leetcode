@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Guruprakash-coder/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Guruprakash-coder/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Guruprakash-coder/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Guruprakash-coder/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Guruprakash-coder/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Guruprakash-coder/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Guruprakash-coder/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Guruprakash-coder/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -1218,4 +1220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Guruprakash-coder/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Guruprakash-coder/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
