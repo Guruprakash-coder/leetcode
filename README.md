@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Guruprakash-coder/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/Guruprakash-coder/leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/Guruprakash-coder/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Guruprakash-coder/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Guruprakash-coder/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Guruprakash-coder/leetcode/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Guruprakash-coder/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Guruprakash-coder/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/Guruprakash-coder/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Guruprakash-coder/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Guruprakash-coder/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Guruprakash-coder/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1243,4 +1245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Guruprakash-coder/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Guruprakash-coder/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
