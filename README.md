@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Guruprakash-coder/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/Guruprakash-coder/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Guruprakash-coder/leetcode/tree/master/2409-count-days-spent-together) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Guruprakash-coder/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/2544-alternating-digit-sum) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Guruprakash-coder/leetcode/tree/master/3001-minimum-moves-to-capture-the-queen) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Guruprakash-coder/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2315-count-asterisks](https://github.com/Guruprakash-coder/leetcode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/Guruprakash-coder/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Guruprakash-coder/leetcode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Guruprakash-coder/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Guruprakash-coder/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Guruprakash-coder/leetcode/tree/master/2833-furthest-point-from-origin) |
