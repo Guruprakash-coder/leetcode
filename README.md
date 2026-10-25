@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Guruprakash-coder/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/Guruprakash-coder/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Guruprakash-coder/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Guruprakash-coder/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Guruprakash-coder/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2784-check-if-array-is-good](https://github.com/Guruprakash-coder/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Guruprakash-coder/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Guruprakash-coder/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Guruprakash-coder/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Guruprakash-coder/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2784-check-if-array-is-good](https://github.com/Guruprakash-coder/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Guruprakash-coder/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Guruprakash-coder/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Guruprakash-coder/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Guruprakash-coder/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Guruprakash-coder/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Guruprakash-coder/leetcode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Guruprakash-coder/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Guruprakash-coder/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Guruprakash-coder/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Guruprakash-coder/leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Guruprakash-coder/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Guruprakash-coder/leetcode/tree/master/3903-smallest-stable-index-i) |
