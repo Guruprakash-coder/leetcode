@@ -4,30 +4,32 @@ class Solution {
         int n=nums1.length;
         int m =nums2.length;
         int[][] dp=new int[n+1][m+1];
-        for(int[] d:dp){
-            Arrays.fill(d,-1);
-        }
+        
+        int ans=0;
         for(int i = 1; i <= n; i++) {
             for(int j = 1; j <= m; j++) {
-                f(nums1, nums2, dp, i, j);
+                if(nums1[i-1]==nums2[j-1]){
+                    dp[i][j]=dp[i-1][j-1]+1;
+                }
+                ans=Math.max(dp[i][j],ans);
             }
         }
         return ans;
     }
-    private int f(int[] nums1,int[] nums2,int[][] dp,int r,int c){
-        if(r<=0 || c<=0){
-            return 0;
-        }
-        if(dp[r][c]!=-1) return dp[r][c];
-        if(nums1[r-1] == nums2[c-1]) {
-            dp[r][c] = 1 + f(nums1, nums2, dp, r-1, c-1);
-        }
-        else {
-            dp[r][c] = 0;
-        }
+    // private int f(int[] nums1,int[] nums2,int[][] dp,int r,int c){
+    //     if(r<=0 || c<=0){
+    //         return 0;
+    //     }
+    //     if(dp[r][c]!=-1) return dp[r][c];
+    //     if(nums1[r-1] == nums2[c-1]) {
+    //         dp[r][c] = 1 + f(nums1, nums2, dp, r-1, c-1);
+    //     }
+    //     else {
+    //         dp[r][c] = 0;
+    //     }
 
-        ans = Math.max(ans, dp[r][c]);
+    //     ans = Math.max(ans, dp[r][c]);
 
-        return dp[r][c];
-    }
+    //     return dp[r][c];
+    // }
 }
