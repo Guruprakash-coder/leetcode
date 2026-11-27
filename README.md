@@ -1311,4 +1311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Guruprakash-coder/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Guruprakash-coder/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
