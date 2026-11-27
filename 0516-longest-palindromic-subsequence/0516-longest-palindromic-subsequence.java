@@ -1,22 +1,42 @@
 class Solution {
     public int longestPalindromeSubseq(String s) {
-        StringBuilder sb=new StringBuilder(s);
-        String s2=sb.reverse().toString();
-        
-        int[][] dp=new int[s.length()+1][s2.length()+1];
-        for(int i=1;i<=s.length();i++){
-            for(int j=1;j<=s2.length();j++){
-                if(s.charAt(i-1)==s2.charAt(j-1)){
-                    dp[i][j]=dp[i-1][j-1]+1;
-                    continue;
-                }
-                dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);
-            }
+        int dp[][]=new int[s.length()][s.length()];
+        for(int[] d:dp){
+            Arrays.fill(d,-1);
         }
-        
-        return dp[s.length()][s2.length()];
-
+        return f(s,dp,0,s.length()-1);
     }
+    private int f(String s,int[][] dp,int i,int j){
+        if(i>j){
+            return 0;
+        }
+        if(i==j ) return 1;
+        if(dp[i][j]!=-1) return dp[i][j];
+        if(s.charAt(i)==s.charAt(j)){
+            return dp[i][j]=2+f(s,dp,i+1,j-1);
+        }
+        int iskip=f(s,dp,i+1,j);
+        int jskip=f(s,dp,i,j-1);
+        return dp[i][j]=Math.max(iskip,jskip);
+    }
+    // public int longestPalindromeSubseq(String s) {
+    //     StringBuilder sb=new StringBuilder(s);
+    //     String s2=sb.reverse().toString();
+        
+    //     int[][] dp=new int[s.length()+1][s2.length()+1];
+    //     for(int i=1;i<=s.length();i++){
+    //         for(int j=1;j<=s2.length();j++){
+    //             if(s.charAt(i-1)==s2.charAt(j-1)){
+    //                 dp[i][j]=dp[i-1][j-1]+1;
+    //                 continue;
+    //             }
+    //             dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);
+    //         }
+    //     }
+        
+    //     return dp[s.length()][s2.length()];
+
+    // }
     // public int longestPalindromeSubseq(String s) {
     //     StringBuilder sb=new StringBuilder(s);
     //     String s2=sb.reverse().toString();
